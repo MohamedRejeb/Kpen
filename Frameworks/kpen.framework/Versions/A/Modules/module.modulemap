@@ -1,0 +1,6 @@
+framework module kpen {
+  umbrella header "kpen.h"
+
+  export *
+  module * { export * }
+}

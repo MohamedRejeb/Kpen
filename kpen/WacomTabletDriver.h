@@ -12,7 +12,7 @@
 #pragma once
 
 #import <Cocoa/Cocoa.h>
-#import "TabletAEDictionary.h"
+#import <kpen/TabletAEDictionary.h>
 
 // All Apple Event indices are 1-based
 #define kInvalidAppleEventIndex 0

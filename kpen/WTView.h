@@ -10,7 +10,7 @@
 // /////////////////////////////////////////////////////////////////////////////
 
 #import <AppKit/AppKit.h>
-#import "DeviceTracker.h"
+#import <kpen/DeviceTracker.h>
 
 @interface WTView : NSImageView
 {
